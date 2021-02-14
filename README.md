@@ -1,6 +1,6 @@
 # "Clone" Netflix
 
-#Tecnologias utilizadas 
+# Tecnologias utilizadas 
 -HTML
 -CSS
 -JS
